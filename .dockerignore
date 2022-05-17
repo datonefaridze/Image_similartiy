@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# allow model file
+!models/
+!requirements.txt
+!img_scores.json
+!custom_model
+!main.py
+!dato.sh
